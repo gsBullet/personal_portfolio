@@ -1,0 +1,40 @@
+.img{
+    width: 120px;
+}
+.a_hover:hover{
+    color: red;
+    
+}
+.developer_derails{
+    padding: 120px 0px;
+}
+.persona_heading h2{
+    padding: 100px 0px;
+}
+.progress_bar_control{
+    margin: 0 auto;
+}
+.speech{
+    /* padding-left: 300px; */
+    padding: 10px 300px;
+
+}
+.web_hover:hover{
+    color: rgba(255, 0, 0, 0.713);
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: red;
+}
+input[type=email]{
+    border: none;
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.btn_footer{
+    width: 100%;
+    text-align: center;
+    background-color: red !important;
+    color: aliceblue;
+    font-weight: bold;
+}
