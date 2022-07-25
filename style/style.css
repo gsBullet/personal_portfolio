@@ -29,6 +29,7 @@
 input[type=email]{
     border: none;
     text-align: center;
+    width: 100%;
     border-bottom: 1px solid gray;
 }
 .btn_footer{
