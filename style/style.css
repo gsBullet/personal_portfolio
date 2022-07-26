@@ -1,10 +1,10 @@
 .img{
     width: 120px;
 }
-ul li a{
+.header_option ul li a{
     color: darkgrey !important;
 }
-ul li a:hover{
+.header_option ul li a:hover{
     color: red !important;
     
 }
