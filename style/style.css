@@ -1,8 +1,11 @@
 .img{
     width: 120px;
 }
-.a_hover:hover{
-    color: red;
+ul li a{
+    color: darkgrey !important;
+}
+ul li a:hover{
+    color: red !important;
     
 }
 .developer_derails{
