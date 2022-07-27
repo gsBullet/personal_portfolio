@@ -1,8 +1,19 @@
 .img{
-    width: 120px;
+    width: 180px;
 }
+.header_option{
+    position: relative;
+}
+.header_option .nav_bar{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    
+}
+
 .header_option ul li a{
     color: darkgrey !important;
+    /* border: 1px solid red; */
 }
 .header_option ul li a:hover{
     color: red !important;
